@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: Cowboy
+Date: Fri, 06 Jan 2017 21:28:18 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: application/json; charset=utf-8
+Etag: W/"8bbe0e7e519eb2ee712ae40a0a91d323"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 30473441-8274-4229-afed-e00b4cdedc5a
+X-Runtime: 0.009842
+Vary: Origin
+Transfer-Encoding: chunked
+Via: 1.1 vegur
+
+[{"id":1,"artist":"Projota","image":"https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd\u0026url=http%3A%2F%2Fwww.rapnacionaldownload.com.br%2Fwp-content%2Fuploads%2F2014%2F11%2Fbaixar-projota-foco-forca-e-fe-cd-downlod.jpg","thumbnail_image":"https://i.alza.cz/Foto/f9_rect/AA/AA129143.jpg","title":"Foco Força e Fé","url":"http://www.saraiva.com.br/projota-foco-forca-e-fe-8205121.html?sku=8205121\u0026force_redirect=1\u0026pac_id=25371\u0026utm_source=buscape\u0026utm_medium=comparador\u0026utm_campaign=cpc_0304-8205121_25371","created_at":"2017-01-06T19:39:30.549Z","updated_at":"2017-01-06T19:39:30.549Z"}]
