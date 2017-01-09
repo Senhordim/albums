@@ -3,6 +3,7 @@ import { Text, View, Image } from 'react-native';
 
 import Card from './Card';
 import CardSection from './CardSection';
+import Buttom from './Buttom';
 
 const AlbumDetail = ({ album }) => {
   const { title, artist, thumbnail_image, image } = album;
@@ -44,7 +45,7 @@ const styles = {
   },
 
   headerTextStyle:{
-    fontSize: 18
+    fontSize: 16
   },
 
   thumbnailStyle: {
