@@ -9,11 +9,18 @@ import AlbumList from './src/components/AlbumList'
 
 // Create a component
 const App = () => (
-  <View style={{ flex: 1}}>
+  <View style={styles.containerStyle}>
     <Header headerText={'Albums'} />
     <AlbumList />
   </View>
 );
+
+const styles = {
+  containerStyle: {
+    flex: 1
+
+  }
+}
 
 // Render ir to the device
 
